@@ -111,15 +111,10 @@ public class MyPlayerAvengerZero extends Player {
 	
 	
 	private Strategy strategy= new InitialStrategy();
-	//private Strategy strategy= new ForgiverOpponent();
 	
-	//int flag=0;
 	@Override
 	public Move getNextMove() {
-		/*if(flag>=2 ) return strategy.getNextMove();
-		flag++;
-		if(flag==2) return Move.DONTPUTCOINS;
-		return Move.PUT1COIN;*/
+	
 		return strategy.getNextMove();
 		
 	}
