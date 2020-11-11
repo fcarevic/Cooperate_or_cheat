@@ -37,7 +37,7 @@ public class MyPlayerAvengerZero extends Player {
 				switch (opponentMoves.get(opponentMoves.size()-1)) {
 				case DONTPUTCOINS:
 					
-					MyPlayerAvengerZero.this.strategy=new CopycatOpponent();
+					MyPlayerAvengerZero.this.strategy=new MyPlayerAvengerZeroOpponent();
 					
 					
 					break;
@@ -46,7 +46,7 @@ public class MyPlayerAvengerZero extends Player {
 					break;
 				case PUT1COIN:
 					
-					MyPlayerAvengerZero.this.strategy=new ForgiverOpponent();
+					MyPlayerAvengerZero.this.strategy=new ForgiverCopycatOpponent();
 					 
 				default:
 					break;
@@ -84,7 +84,7 @@ public class MyPlayerAvengerZero extends Player {
 	}
 	
 	
-	private class CopycatOpponent extends Strategy{
+	private class MyPlayerAvengerZeroOpponent extends Strategy{
 		@Override
 		Move getNextMove() {
 			// TODO Auto-generated method stub
@@ -92,7 +92,7 @@ public class MyPlayerAvengerZero extends Player {
 		}
 	}
 	
-	private class ForgiverOpponent extends Strategy{
+	private class ForgiverCopycatOpponent extends Strategy{
 		private Move moves[] = {Move.DONTPUTCOINS, Move.PUT2COINS};
 		private int i=0;
 		
