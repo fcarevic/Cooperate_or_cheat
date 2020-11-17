@@ -94,15 +94,19 @@ public class MyPlayerAvengerZero extends Player {
 	
 	private class ForgiverCopycatOpponent extends Strategy{
 		private Move moves[] = {Move.DONTPUTCOINS, Move.PUT2COINS};
+		
 		private int i=0;
 		
 		@Override
 		Move getNextMove() {
+			
+			if(opponentMoves.get(opponentMoves.size()-1)==Move.DONTPUTCOINS) return Move.DONTPUTCOINS;
 			// TODO Auto-generated method stub
 			i=(i+1)%2;
 			return moves[i];
 		}
 	}
+	
 	
 
 	
