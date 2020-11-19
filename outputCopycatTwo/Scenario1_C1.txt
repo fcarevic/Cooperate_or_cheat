@@ -153,11 +153,11 @@ Match 151 - |Copycat6 : -1| VS |Stinger22 : 3|
 Match 152 - |Copycat6 : -1| VS |Stinger23 : 3|
 Match 153 - |Copycat6 : -1| VS |Stinger24 : 3|
 Match 154 - |Copycat6 : -1| VS |Stinger25 : 3|
-Match 155 - |Copycat6 : 11| VS |MyPlayerCopycatTwo26 : 15|
-Match 156 - |Copycat6 : 11| VS |MyPlayerCopycatTwo27 : 15|
-Match 157 - |Copycat6 : 11| VS |MyPlayerCopycatTwo28 : 15|
-Match 158 - |Copycat6 : 11| VS |MyPlayerCopycatTwo29 : 15|
-Match 159 - |Copycat6 : 11| VS |MyPlayerCopycatTwo30 : 15|
+Match 155 - |Copycat6 : 16| VS |MyPlayerCopycatTwo26 : 20|
+Match 156 - |Copycat6 : 16| VS |MyPlayerCopycatTwo27 : 20|
+Match 157 - |Copycat6 : 16| VS |MyPlayerCopycatTwo28 : 20|
+Match 158 - |Copycat6 : 16| VS |MyPlayerCopycatTwo29 : 20|
+Match 159 - |Copycat6 : 16| VS |MyPlayerCopycatTwo30 : 20|
 Match 160 - |Copycat7 : 20| VS |Copycat8 : 20|
 Match 161 - |Copycat7 : 20| VS |Copycat9 : 20|
 Match 162 - |Copycat7 : 20| VS |Copycat10 : 20|
@@ -176,11 +176,11 @@ Match 174 - |Copycat7 : -1| VS |Stinger22 : 3|
 Match 175 - |Copycat7 : -1| VS |Stinger23 : 3|
 Match 176 - |Copycat7 : -1| VS |Stinger24 : 3|
 Match 177 - |Copycat7 : -1| VS |Stinger25 : 3|
-Match 178 - |Copycat7 : 11| VS |MyPlayerCopycatTwo26 : 15|
-Match 179 - |Copycat7 : 11| VS |MyPlayerCopycatTwo27 : 15|
-Match 180 - |Copycat7 : 11| VS |MyPlayerCopycatTwo28 : 15|
-Match 181 - |Copycat7 : 11| VS |MyPlayerCopycatTwo29 : 15|
-Match 182 - |Copycat7 : 11| VS |MyPlayerCopycatTwo30 : 15|
+Match 178 - |Copycat7 : 16| VS |MyPlayerCopycatTwo26 : 20|
+Match 179 - |Copycat7 : 16| VS |MyPlayerCopycatTwo27 : 20|
+Match 180 - |Copycat7 : 16| VS |MyPlayerCopycatTwo28 : 20|
+Match 181 - |Copycat7 : 16| VS |MyPlayerCopycatTwo29 : 20|
+Match 182 - |Copycat7 : 16| VS |MyPlayerCopycatTwo30 : 20|
 Match 183 - |Copycat8 : 20| VS |Copycat9 : 20|
 Match 184 - |Copycat8 : 20| VS |Copycat10 : 20|
 Match 185 - |Copycat8 : 20| VS |Forgiver11 : 20|
@@ -198,11 +198,11 @@ Match 196 - |Copycat8 : -1| VS |Stinger22 : 3|
 Match 197 - |Copycat8 : -1| VS |Stinger23 : 3|
 Match 198 - |Copycat8 : -1| VS |Stinger24 : 3|
 Match 199 - |Copycat8 : -1| VS |Stinger25 : 3|
-Match 200 - |Copycat8 : 11| VS |MyPlayerCopycatTwo26 : 15|
-Match 201 - |Copycat8 : 11| VS |MyPlayerCopycatTwo27 : 15|
-Match 202 - |Copycat8 : 11| VS |MyPlayerCopycatTwo28 : 15|
-Match 203 - |Copycat8 : 11| VS |MyPlayerCopycatTwo29 : 15|
-Match 204 - |Copycat8 : 11| VS |MyPlayerCopycatTwo30 : 15|
+Match 200 - |Copycat8 : 16| VS |MyPlayerCopycatTwo26 : 20|
+Match 201 - |Copycat8 : 16| VS |MyPlayerCopycatTwo27 : 20|
+Match 202 - |Copycat8 : 16| VS |MyPlayerCopycatTwo28 : 20|
+Match 203 - |Copycat8 : 16| VS |MyPlayerCopycatTwo29 : 20|
+Match 204 - |Copycat8 : 16| VS |MyPlayerCopycatTwo30 : 20|
 Match 205 - |Copycat9 : 20| VS |Copycat10 : 20|
 Match 206 - |Copycat9 : 20| VS |Forgiver11 : 20|
 Match 207 - |Copycat9 : 20| VS |Forgiver12 : 20|
@@ -219,11 +219,11 @@ Match 217 - |Copycat9 : -1| VS |Stinger22 : 3|
 Match 218 - |Copycat9 : -1| VS |Stinger23 : 3|
 Match 219 - |Copycat9 : -1| VS |Stinger24 : 3|
 Match 220 - |Copycat9 : -1| VS |Stinger25 : 3|
-Match 221 - |Copycat9 : 11| VS |MyPlayerCopycatTwo26 : 15|
-Match 222 - |Copycat9 : 11| VS |MyPlayerCopycatTwo27 : 15|
-Match 223 - |Copycat9 : 11| VS |MyPlayerCopycatTwo28 : 15|
-Match 224 - |Copycat9 : 11| VS |MyPlayerCopycatTwo29 : 15|
-Match 225 - |Copycat9 : 11| VS |MyPlayerCopycatTwo30 : 15|
+Match 221 - |Copycat9 : 16| VS |MyPlayerCopycatTwo26 : 20|
+Match 222 - |Copycat9 : 16| VS |MyPlayerCopycatTwo27 : 20|
+Match 223 - |Copycat9 : 16| VS |MyPlayerCopycatTwo28 : 20|
+Match 224 - |Copycat9 : 16| VS |MyPlayerCopycatTwo29 : 20|
+Match 225 - |Copycat9 : 16| VS |MyPlayerCopycatTwo30 : 20|
 Match 226 - |Copycat10 : 20| VS |Forgiver11 : 20|
 Match 227 - |Copycat10 : 20| VS |Forgiver12 : 20|
 Match 228 - |Copycat10 : 20| VS |Forgiver13 : 20|
@@ -239,11 +239,11 @@ Match 237 - |Copycat10 : -1| VS |Stinger22 : 3|
 Match 238 - |Copycat10 : -1| VS |Stinger23 : 3|
 Match 239 - |Copycat10 : -1| VS |Stinger24 : 3|
 Match 240 - |Copycat10 : -1| VS |Stinger25 : 3|
-Match 241 - |Copycat10 : 11| VS |MyPlayerCopycatTwo26 : 15|
-Match 242 - |Copycat10 : 11| VS |MyPlayerCopycatTwo27 : 15|
-Match 243 - |Copycat10 : 11| VS |MyPlayerCopycatTwo28 : 15|
-Match 244 - |Copycat10 : 11| VS |MyPlayerCopycatTwo29 : 15|
-Match 245 - |Copycat10 : 11| VS |MyPlayerCopycatTwo30 : 15|
+Match 241 - |Copycat10 : 16| VS |MyPlayerCopycatTwo26 : 20|
+Match 242 - |Copycat10 : 16| VS |MyPlayerCopycatTwo27 : 20|
+Match 243 - |Copycat10 : 16| VS |MyPlayerCopycatTwo28 : 20|
+Match 244 - |Copycat10 : 16| VS |MyPlayerCopycatTwo29 : 20|
+Match 245 - |Copycat10 : 16| VS |MyPlayerCopycatTwo30 : 20|
 Match 246 - |Forgiver11 : 20| VS |Forgiver12 : 20|
 Match 247 - |Forgiver11 : 20| VS |Forgiver13 : 20|
 Match 248 - |Forgiver11 : 20| VS |Forgiver14 : 20|
@@ -435,16 +435,16 @@ Match 433 - |MyPlayerCopycatTwo28 : 47| VS |MyPlayerCopycatTwo29 : 47|
 Match 434 - |MyPlayerCopycatTwo28 : 47| VS |MyPlayerCopycatTwo30 : 47|
 Match 435 - |MyPlayerCopycatTwo29 : 47| VS |MyPlayerCopycatTwo30 : 47|
 =================== TOTAL POINTS ===================
-=MyPlayerCopycatTwo26 : 927
+=MyPlayerCopycatTwo26 : 952
 =Goody16 : 845
 =Goody17 : 845
 =Goody18 : 845
 =Goody19 : 845
 =Goody20 : 845
-=MyPlayerCopycatTwo27 : 807
-=MyPlayerCopycatTwo28 : 807
-=MyPlayerCopycatTwo29 : 807
-=MyPlayerCopycatTwo30 : 807
+=MyPlayerCopycatTwo27 : 832
+=MyPlayerCopycatTwo28 : 832
+=MyPlayerCopycatTwo29 : 832
+=MyPlayerCopycatTwo30 : 832
 =Avenger1 : 670
 =Avenger2 : 670
 =Avenger3 : 670
@@ -455,11 +455,11 @@ Match 435 - |MyPlayerCopycatTwo29 : 47| VS |MyPlayerCopycatTwo30 : 47|
 =Forgiver13 : 640
 =Forgiver14 : 640
 =Forgiver15 : 640
-=Copycat6 : 600
-=Copycat7 : 600
-=Copycat8 : 600
-=Copycat9 : 600
-=Copycat10 : 600
+=Copycat6 : 625
+=Copycat7 : 625
+=Copycat8 : 625
+=Copycat9 : 625
+=Copycat10 : 625
 -Stinger21 : 445
 -Stinger22 : 445
 -Stinger23 : 445
@@ -485,11 +485,11 @@ Match 16 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver12 : 20|
 Match 17 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver13 : 20|
 Match 18 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver14 : 20|
 Match 19 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver15 : 20|
-Match 20 - |MyPlayerCopycatTwo26 : 15| VS |Copycat6 : 11|
-Match 21 - |MyPlayerCopycatTwo26 : 15| VS |Copycat7 : 11|
-Match 22 - |MyPlayerCopycatTwo26 : 15| VS |Copycat8 : 11|
-Match 23 - |MyPlayerCopycatTwo26 : 15| VS |Copycat9 : 11|
-Match 24 - |MyPlayerCopycatTwo26 : 15| VS |Copycat10 : 11|
+Match 20 - |MyPlayerCopycatTwo26 : 20| VS |Copycat6 : 16|
+Match 21 - |MyPlayerCopycatTwo26 : 20| VS |Copycat7 : 16|
+Match 22 - |MyPlayerCopycatTwo26 : 20| VS |Copycat8 : 16|
+Match 23 - |MyPlayerCopycatTwo26 : 20| VS |Copycat9 : 16|
+Match 24 - |MyPlayerCopycatTwo26 : 20| VS |Copycat10 : 16|
 Match 25 - |Goody16 : 50| VS |Goody17 : 50|
 Match 26 - |Goody16 : 50| VS |Goody18 : 50|
 Match 27 - |Goody16 : 50| VS |Goody19 : 50|
@@ -608,11 +608,11 @@ Match 139 - |MyPlayerCopycatTwo27 : 51| VS |Forgiver12 : 20|
 Match 140 - |MyPlayerCopycatTwo27 : 51| VS |Forgiver13 : 20|
 Match 141 - |MyPlayerCopycatTwo27 : 51| VS |Forgiver14 : 20|
 Match 142 - |MyPlayerCopycatTwo27 : 51| VS |Forgiver15 : 20|
-Match 143 - |MyPlayerCopycatTwo27 : 15| VS |Copycat6 : 11|
-Match 144 - |MyPlayerCopycatTwo27 : 15| VS |Copycat7 : 11|
-Match 145 - |MyPlayerCopycatTwo27 : 15| VS |Copycat8 : 11|
-Match 146 - |MyPlayerCopycatTwo27 : 15| VS |Copycat9 : 11|
-Match 147 - |MyPlayerCopycatTwo27 : 15| VS |Copycat10 : 11|
+Match 143 - |MyPlayerCopycatTwo27 : 20| VS |Copycat6 : 16|
+Match 144 - |MyPlayerCopycatTwo27 : 20| VS |Copycat7 : 16|
+Match 145 - |MyPlayerCopycatTwo27 : 20| VS |Copycat8 : 16|
+Match 146 - |MyPlayerCopycatTwo27 : 20| VS |Copycat9 : 16|
+Match 147 - |MyPlayerCopycatTwo27 : 20| VS |Copycat10 : 16|
 Match 148 - |MyPlayerCopycatTwo28 : 47| VS |MyPlayerCopycatTwo29 : 47|
 Match 149 - |MyPlayerCopycatTwo28 : 47| VS |MyPlayerCopycatTwo30 : 47|
 Match 150 - |MyPlayerCopycatTwo28 : 9| VS |Avenger1 : 0|
@@ -625,11 +625,11 @@ Match 156 - |MyPlayerCopycatTwo28 : 51| VS |Forgiver12 : 20|
 Match 157 - |MyPlayerCopycatTwo28 : 51| VS |Forgiver13 : 20|
 Match 158 - |MyPlayerCopycatTwo28 : 51| VS |Forgiver14 : 20|
 Match 159 - |MyPlayerCopycatTwo28 : 51| VS |Forgiver15 : 20|
-Match 160 - |MyPlayerCopycatTwo28 : 15| VS |Copycat6 : 11|
-Match 161 - |MyPlayerCopycatTwo28 : 15| VS |Copycat7 : 11|
-Match 162 - |MyPlayerCopycatTwo28 : 15| VS |Copycat8 : 11|
-Match 163 - |MyPlayerCopycatTwo28 : 15| VS |Copycat9 : 11|
-Match 164 - |MyPlayerCopycatTwo28 : 15| VS |Copycat10 : 11|
+Match 160 - |MyPlayerCopycatTwo28 : 20| VS |Copycat6 : 16|
+Match 161 - |MyPlayerCopycatTwo28 : 20| VS |Copycat7 : 16|
+Match 162 - |MyPlayerCopycatTwo28 : 20| VS |Copycat8 : 16|
+Match 163 - |MyPlayerCopycatTwo28 : 20| VS |Copycat9 : 16|
+Match 164 - |MyPlayerCopycatTwo28 : 20| VS |Copycat10 : 16|
 Match 165 - |MyPlayerCopycatTwo29 : 47| VS |MyPlayerCopycatTwo30 : 47|
 Match 166 - |MyPlayerCopycatTwo29 : 9| VS |Avenger1 : 0|
 Match 167 - |MyPlayerCopycatTwo29 : 9| VS |Avenger2 : 0|
@@ -641,11 +641,11 @@ Match 172 - |MyPlayerCopycatTwo29 : 51| VS |Forgiver12 : 20|
 Match 173 - |MyPlayerCopycatTwo29 : 51| VS |Forgiver13 : 20|
 Match 174 - |MyPlayerCopycatTwo29 : 51| VS |Forgiver14 : 20|
 Match 175 - |MyPlayerCopycatTwo29 : 51| VS |Forgiver15 : 20|
-Match 176 - |MyPlayerCopycatTwo29 : 15| VS |Copycat6 : 11|
-Match 177 - |MyPlayerCopycatTwo29 : 15| VS |Copycat7 : 11|
-Match 178 - |MyPlayerCopycatTwo29 : 15| VS |Copycat8 : 11|
-Match 179 - |MyPlayerCopycatTwo29 : 15| VS |Copycat9 : 11|
-Match 180 - |MyPlayerCopycatTwo29 : 15| VS |Copycat10 : 11|
+Match 176 - |MyPlayerCopycatTwo29 : 20| VS |Copycat6 : 16|
+Match 177 - |MyPlayerCopycatTwo29 : 20| VS |Copycat7 : 16|
+Match 178 - |MyPlayerCopycatTwo29 : 20| VS |Copycat8 : 16|
+Match 179 - |MyPlayerCopycatTwo29 : 20| VS |Copycat9 : 16|
+Match 180 - |MyPlayerCopycatTwo29 : 20| VS |Copycat10 : 16|
 Match 181 - |MyPlayerCopycatTwo30 : 9| VS |Avenger1 : 0|
 Match 182 - |MyPlayerCopycatTwo30 : 9| VS |Avenger2 : 0|
 Match 183 - |MyPlayerCopycatTwo30 : 9| VS |Avenger3 : 0|
@@ -656,11 +656,11 @@ Match 187 - |MyPlayerCopycatTwo30 : 51| VS |Forgiver12 : 20|
 Match 188 - |MyPlayerCopycatTwo30 : 51| VS |Forgiver13 : 20|
 Match 189 - |MyPlayerCopycatTwo30 : 51| VS |Forgiver14 : 20|
 Match 190 - |MyPlayerCopycatTwo30 : 51| VS |Forgiver15 : 20|
-Match 191 - |MyPlayerCopycatTwo30 : 15| VS |Copycat6 : 11|
-Match 192 - |MyPlayerCopycatTwo30 : 15| VS |Copycat7 : 11|
-Match 193 - |MyPlayerCopycatTwo30 : 15| VS |Copycat8 : 11|
-Match 194 - |MyPlayerCopycatTwo30 : 15| VS |Copycat9 : 11|
-Match 195 - |MyPlayerCopycatTwo30 : 15| VS |Copycat10 : 11|
+Match 191 - |MyPlayerCopycatTwo30 : 20| VS |Copycat6 : 16|
+Match 192 - |MyPlayerCopycatTwo30 : 20| VS |Copycat7 : 16|
+Match 193 - |MyPlayerCopycatTwo30 : 20| VS |Copycat8 : 16|
+Match 194 - |MyPlayerCopycatTwo30 : 20| VS |Copycat9 : 16|
+Match 195 - |MyPlayerCopycatTwo30 : 20| VS |Copycat10 : 16|
 Match 196 - |Avenger1 : 50| VS |Avenger2 : 50|
 Match 197 - |Avenger1 : 50| VS |Avenger3 : 50|
 Match 198 - |Avenger1 : 50| VS |Avenger4 : 50|
@@ -767,16 +767,16 @@ Match 298 - |Copycat8 : 20| VS |Copycat9 : 20|
 Match 299 - |Copycat8 : 20| VS |Copycat10 : 20|
 Match 300 - |Copycat9 : 20| VS |Copycat10 : 20|
 =================== TOTAL POINTS ===================
+=MyPlayerCopycatTwo26 : 957
 =Goody16 : 945
 =Goody17 : 945
 =Goody18 : 945
 =Goody19 : 945
 =Goody20 : 945
-=MyPlayerCopycatTwo26 : 932
-=MyPlayerCopycatTwo27 : 812
-=MyPlayerCopycatTwo28 : 812
-=MyPlayerCopycatTwo29 : 812
-=MyPlayerCopycatTwo30 : 812
+=MyPlayerCopycatTwo27 : 837
+=MyPlayerCopycatTwo28 : 837
+=MyPlayerCopycatTwo29 : 837
+=MyPlayerCopycatTwo30 : 837
 =Avenger1 : 680
 =Avenger2 : 680
 =Avenger3 : 680
@@ -787,111 +787,111 @@ Match 300 - |Copycat9 : 20| VS |Copycat10 : 20|
 =Forgiver13 : 650
 =Forgiver14 : 650
 =Forgiver15 : 650
--Copycat6 : 605
--Copycat7 : 605
--Copycat8 : 605
--Copycat9 : 605
--Copycat10 : 605
+-Copycat6 : 630
+-Copycat7 : 630
+-Copycat8 : 630
+-Copycat9 : 630
+-Copycat10 : 630
 ********************** GAME 3 **********************
-Match 1 - |Goody16 : 50| VS |Goody17 : 50|
-Match 2 - |Goody16 : 50| VS |Goody18 : 50|
-Match 3 - |Goody16 : 50| VS |Goody19 : 50|
-Match 4 - |Goody16 : 50| VS |Goody20 : 50|
-Match 5 - |Goody16 : 7| VS |MyPlayerCopycatTwo26 : 61|
-Match 6 - |Goody16 : 7| VS |MyPlayerCopycatTwo27 : 61|
-Match 7 - |Goody16 : 7| VS |MyPlayerCopycatTwo28 : 61|
-Match 8 - |Goody16 : 7| VS |MyPlayerCopycatTwo29 : 61|
-Match 9 - |Goody16 : 7| VS |MyPlayerCopycatTwo30 : 61|
-Match 10 - |Goody16 : 50| VS |Avenger1 : 50|
-Match 11 - |Goody16 : 50| VS |Avenger2 : 50|
-Match 12 - |Goody16 : 50| VS |Avenger3 : 50|
-Match 13 - |Goody16 : 50| VS |Avenger4 : 50|
-Match 14 - |Goody16 : 50| VS |Avenger5 : 50|
-Match 15 - |Goody16 : 46| VS |Forgiver11 : 51|
-Match 16 - |Goody16 : 46| VS |Forgiver12 : 51|
-Match 17 - |Goody16 : 46| VS |Forgiver13 : 51|
-Match 18 - |Goody16 : 46| VS |Forgiver14 : 51|
-Match 19 - |Goody16 : 46| VS |Forgiver15 : 51|
-Match 20 - |Goody17 : 50| VS |Goody18 : 50|
-Match 21 - |Goody17 : 50| VS |Goody19 : 50|
-Match 22 - |Goody17 : 50| VS |Goody20 : 50|
-Match 23 - |Goody17 : 7| VS |MyPlayerCopycatTwo26 : 61|
-Match 24 - |Goody17 : 7| VS |MyPlayerCopycatTwo27 : 61|
-Match 25 - |Goody17 : 7| VS |MyPlayerCopycatTwo28 : 61|
-Match 26 - |Goody17 : 7| VS |MyPlayerCopycatTwo29 : 61|
-Match 27 - |Goody17 : 7| VS |MyPlayerCopycatTwo30 : 61|
-Match 28 - |Goody17 : 50| VS |Avenger1 : 50|
-Match 29 - |Goody17 : 50| VS |Avenger2 : 50|
-Match 30 - |Goody17 : 50| VS |Avenger3 : 50|
-Match 31 - |Goody17 : 50| VS |Avenger4 : 50|
-Match 32 - |Goody17 : 50| VS |Avenger5 : 50|
-Match 33 - |Goody17 : 46| VS |Forgiver11 : 51|
-Match 34 - |Goody17 : 46| VS |Forgiver12 : 51|
-Match 35 - |Goody17 : 46| VS |Forgiver13 : 51|
-Match 36 - |Goody17 : 46| VS |Forgiver14 : 51|
-Match 37 - |Goody17 : 46| VS |Forgiver15 : 51|
-Match 38 - |Goody18 : 50| VS |Goody19 : 50|
-Match 39 - |Goody18 : 50| VS |Goody20 : 50|
-Match 40 - |Goody18 : 7| VS |MyPlayerCopycatTwo26 : 61|
-Match 41 - |Goody18 : 7| VS |MyPlayerCopycatTwo27 : 61|
-Match 42 - |Goody18 : 7| VS |MyPlayerCopycatTwo28 : 61|
-Match 43 - |Goody18 : 7| VS |MyPlayerCopycatTwo29 : 61|
-Match 44 - |Goody18 : 7| VS |MyPlayerCopycatTwo30 : 61|
-Match 45 - |Goody18 : 50| VS |Avenger1 : 50|
-Match 46 - |Goody18 : 50| VS |Avenger2 : 50|
-Match 47 - |Goody18 : 50| VS |Avenger3 : 50|
-Match 48 - |Goody18 : 50| VS |Avenger4 : 50|
-Match 49 - |Goody18 : 50| VS |Avenger5 : 50|
-Match 50 - |Goody18 : 46| VS |Forgiver11 : 51|
-Match 51 - |Goody18 : 46| VS |Forgiver12 : 51|
-Match 52 - |Goody18 : 46| VS |Forgiver13 : 51|
-Match 53 - |Goody18 : 46| VS |Forgiver14 : 51|
-Match 54 - |Goody18 : 46| VS |Forgiver15 : 51|
-Match 55 - |Goody19 : 50| VS |Goody20 : 50|
-Match 56 - |Goody19 : 7| VS |MyPlayerCopycatTwo26 : 61|
-Match 57 - |Goody19 : 7| VS |MyPlayerCopycatTwo27 : 61|
-Match 58 - |Goody19 : 7| VS |MyPlayerCopycatTwo28 : 61|
-Match 59 - |Goody19 : 7| VS |MyPlayerCopycatTwo29 : 61|
-Match 60 - |Goody19 : 7| VS |MyPlayerCopycatTwo30 : 61|
-Match 61 - |Goody19 : 50| VS |Avenger1 : 50|
-Match 62 - |Goody19 : 50| VS |Avenger2 : 50|
-Match 63 - |Goody19 : 50| VS |Avenger3 : 50|
-Match 64 - |Goody19 : 50| VS |Avenger4 : 50|
-Match 65 - |Goody19 : 50| VS |Avenger5 : 50|
-Match 66 - |Goody19 : 46| VS |Forgiver11 : 51|
-Match 67 - |Goody19 : 46| VS |Forgiver12 : 51|
-Match 68 - |Goody19 : 46| VS |Forgiver13 : 51|
-Match 69 - |Goody19 : 46| VS |Forgiver14 : 51|
-Match 70 - |Goody19 : 46| VS |Forgiver15 : 51|
-Match 71 - |Goody20 : 7| VS |MyPlayerCopycatTwo26 : 61|
-Match 72 - |Goody20 : 7| VS |MyPlayerCopycatTwo27 : 61|
-Match 73 - |Goody20 : 7| VS |MyPlayerCopycatTwo28 : 61|
-Match 74 - |Goody20 : 7| VS |MyPlayerCopycatTwo29 : 61|
-Match 75 - |Goody20 : 7| VS |MyPlayerCopycatTwo30 : 61|
-Match 76 - |Goody20 : 50| VS |Avenger1 : 50|
-Match 77 - |Goody20 : 50| VS |Avenger2 : 50|
-Match 78 - |Goody20 : 50| VS |Avenger3 : 50|
-Match 79 - |Goody20 : 50| VS |Avenger4 : 50|
-Match 80 - |Goody20 : 50| VS |Avenger5 : 50|
-Match 81 - |Goody20 : 46| VS |Forgiver11 : 51|
-Match 82 - |Goody20 : 46| VS |Forgiver12 : 51|
-Match 83 - |Goody20 : 46| VS |Forgiver13 : 51|
-Match 84 - |Goody20 : 46| VS |Forgiver14 : 51|
-Match 85 - |Goody20 : 46| VS |Forgiver15 : 51|
-Match 86 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo27 : -9|
-Match 87 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo28 : -9|
-Match 88 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo29 : -9|
-Match 89 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo30 : -9|
-Match 90 - |MyPlayerCopycatTwo26 : 9| VS |Avenger1 : 0|
-Match 91 - |MyPlayerCopycatTwo26 : 9| VS |Avenger2 : 0|
-Match 92 - |MyPlayerCopycatTwo26 : 9| VS |Avenger3 : 0|
-Match 93 - |MyPlayerCopycatTwo26 : 9| VS |Avenger4 : 0|
-Match 94 - |MyPlayerCopycatTwo26 : 9| VS |Avenger5 : 0|
-Match 95 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver11 : 20|
-Match 96 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver12 : 20|
-Match 97 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver13 : 20|
-Match 98 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver14 : 20|
-Match 99 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver15 : 20|
+Match 1 - |MyPlayerCopycatTwo26 : 61| VS |Goody16 : 7|
+Match 2 - |MyPlayerCopycatTwo26 : 61| VS |Goody17 : 7|
+Match 3 - |MyPlayerCopycatTwo26 : 61| VS |Goody18 : 7|
+Match 4 - |MyPlayerCopycatTwo26 : 61| VS |Goody19 : 7|
+Match 5 - |MyPlayerCopycatTwo26 : 61| VS |Goody20 : 7|
+Match 6 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo27 : -9|
+Match 7 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo28 : -9|
+Match 8 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo29 : -9|
+Match 9 - |MyPlayerCopycatTwo26 : 63| VS |MyPlayerCopycatTwo30 : -9|
+Match 10 - |MyPlayerCopycatTwo26 : 9| VS |Avenger1 : 0|
+Match 11 - |MyPlayerCopycatTwo26 : 9| VS |Avenger2 : 0|
+Match 12 - |MyPlayerCopycatTwo26 : 9| VS |Avenger3 : 0|
+Match 13 - |MyPlayerCopycatTwo26 : 9| VS |Avenger4 : 0|
+Match 14 - |MyPlayerCopycatTwo26 : 9| VS |Avenger5 : 0|
+Match 15 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver11 : 20|
+Match 16 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver12 : 20|
+Match 17 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver13 : 20|
+Match 18 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver14 : 20|
+Match 19 - |MyPlayerCopycatTwo26 : 51| VS |Forgiver15 : 20|
+Match 20 - |Goody16 : 50| VS |Goody17 : 50|
+Match 21 - |Goody16 : 50| VS |Goody18 : 50|
+Match 22 - |Goody16 : 50| VS |Goody19 : 50|
+Match 23 - |Goody16 : 50| VS |Goody20 : 50|
+Match 24 - |Goody16 : 7| VS |MyPlayerCopycatTwo27 : 61|
+Match 25 - |Goody16 : 7| VS |MyPlayerCopycatTwo28 : 61|
+Match 26 - |Goody16 : 7| VS |MyPlayerCopycatTwo29 : 61|
+Match 27 - |Goody16 : 7| VS |MyPlayerCopycatTwo30 : 61|
+Match 28 - |Goody16 : 50| VS |Avenger1 : 50|
+Match 29 - |Goody16 : 50| VS |Avenger2 : 50|
+Match 30 - |Goody16 : 50| VS |Avenger3 : 50|
+Match 31 - |Goody16 : 50| VS |Avenger4 : 50|
+Match 32 - |Goody16 : 50| VS |Avenger5 : 50|
+Match 33 - |Goody16 : 46| VS |Forgiver11 : 51|
+Match 34 - |Goody16 : 46| VS |Forgiver12 : 51|
+Match 35 - |Goody16 : 46| VS |Forgiver13 : 51|
+Match 36 - |Goody16 : 46| VS |Forgiver14 : 51|
+Match 37 - |Goody16 : 46| VS |Forgiver15 : 51|
+Match 38 - |Goody17 : 50| VS |Goody18 : 50|
+Match 39 - |Goody17 : 50| VS |Goody19 : 50|
+Match 40 - |Goody17 : 50| VS |Goody20 : 50|
+Match 41 - |Goody17 : 7| VS |MyPlayerCopycatTwo27 : 61|
+Match 42 - |Goody17 : 7| VS |MyPlayerCopycatTwo28 : 61|
+Match 43 - |Goody17 : 7| VS |MyPlayerCopycatTwo29 : 61|
+Match 44 - |Goody17 : 7| VS |MyPlayerCopycatTwo30 : 61|
+Match 45 - |Goody17 : 50| VS |Avenger1 : 50|
+Match 46 - |Goody17 : 50| VS |Avenger2 : 50|
+Match 47 - |Goody17 : 50| VS |Avenger3 : 50|
+Match 48 - |Goody17 : 50| VS |Avenger4 : 50|
+Match 49 - |Goody17 : 50| VS |Avenger5 : 50|
+Match 50 - |Goody17 : 46| VS |Forgiver11 : 51|
+Match 51 - |Goody17 : 46| VS |Forgiver12 : 51|
+Match 52 - |Goody17 : 46| VS |Forgiver13 : 51|
+Match 53 - |Goody17 : 46| VS |Forgiver14 : 51|
+Match 54 - |Goody17 : 46| VS |Forgiver15 : 51|
+Match 55 - |Goody18 : 50| VS |Goody19 : 50|
+Match 56 - |Goody18 : 50| VS |Goody20 : 50|
+Match 57 - |Goody18 : 7| VS |MyPlayerCopycatTwo27 : 61|
+Match 58 - |Goody18 : 7| VS |MyPlayerCopycatTwo28 : 61|
+Match 59 - |Goody18 : 7| VS |MyPlayerCopycatTwo29 : 61|
+Match 60 - |Goody18 : 7| VS |MyPlayerCopycatTwo30 : 61|
+Match 61 - |Goody18 : 50| VS |Avenger1 : 50|
+Match 62 - |Goody18 : 50| VS |Avenger2 : 50|
+Match 63 - |Goody18 : 50| VS |Avenger3 : 50|
+Match 64 - |Goody18 : 50| VS |Avenger4 : 50|
+Match 65 - |Goody18 : 50| VS |Avenger5 : 50|
+Match 66 - |Goody18 : 46| VS |Forgiver11 : 51|
+Match 67 - |Goody18 : 46| VS |Forgiver12 : 51|
+Match 68 - |Goody18 : 46| VS |Forgiver13 : 51|
+Match 69 - |Goody18 : 46| VS |Forgiver14 : 51|
+Match 70 - |Goody18 : 46| VS |Forgiver15 : 51|
+Match 71 - |Goody19 : 50| VS |Goody20 : 50|
+Match 72 - |Goody19 : 7| VS |MyPlayerCopycatTwo27 : 61|
+Match 73 - |Goody19 : 7| VS |MyPlayerCopycatTwo28 : 61|
+Match 74 - |Goody19 : 7| VS |MyPlayerCopycatTwo29 : 61|
+Match 75 - |Goody19 : 7| VS |MyPlayerCopycatTwo30 : 61|
+Match 76 - |Goody19 : 50| VS |Avenger1 : 50|
+Match 77 - |Goody19 : 50| VS |Avenger2 : 50|
+Match 78 - |Goody19 : 50| VS |Avenger3 : 50|
+Match 79 - |Goody19 : 50| VS |Avenger4 : 50|
+Match 80 - |Goody19 : 50| VS |Avenger5 : 50|
+Match 81 - |Goody19 : 46| VS |Forgiver11 : 51|
+Match 82 - |Goody19 : 46| VS |Forgiver12 : 51|
+Match 83 - |Goody19 : 46| VS |Forgiver13 : 51|
+Match 84 - |Goody19 : 46| VS |Forgiver14 : 51|
+Match 85 - |Goody19 : 46| VS |Forgiver15 : 51|
+Match 86 - |Goody20 : 7| VS |MyPlayerCopycatTwo27 : 61|
+Match 87 - |Goody20 : 7| VS |MyPlayerCopycatTwo28 : 61|
+Match 88 - |Goody20 : 7| VS |MyPlayerCopycatTwo29 : 61|
+Match 89 - |Goody20 : 7| VS |MyPlayerCopycatTwo30 : 61|
+Match 90 - |Goody20 : 50| VS |Avenger1 : 50|
+Match 91 - |Goody20 : 50| VS |Avenger2 : 50|
+Match 92 - |Goody20 : 50| VS |Avenger3 : 50|
+Match 93 - |Goody20 : 50| VS |Avenger4 : 50|
+Match 94 - |Goody20 : 50| VS |Avenger5 : 50|
+Match 95 - |Goody20 : 46| VS |Forgiver11 : 51|
+Match 96 - |Goody20 : 46| VS |Forgiver12 : 51|
+Match 97 - |Goody20 : 46| VS |Forgiver13 : 51|
+Match 98 - |Goody20 : 46| VS |Forgiver14 : 51|
+Match 99 - |Goody20 : 46| VS |Forgiver15 : 51|
 Match 100 - |MyPlayerCopycatTwo27 : 47| VS |MyPlayerCopycatTwo28 : 47|
 Match 101 - |MyPlayerCopycatTwo27 : 47| VS |MyPlayerCopycatTwo29 : 47|
 Match 102 - |MyPlayerCopycatTwo27 : 47| VS |MyPlayerCopycatTwo30 : 47|

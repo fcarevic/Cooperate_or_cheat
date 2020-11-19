@@ -41,7 +41,7 @@ public class Test {
 		for(String s:args) {
 			System.out.println(s);
 		}
-	int max=1000;
+	int max=100;
 	int cnt=0;
 	for(int i=0;i<max;i++) {
 	Game.main(argsMain);
