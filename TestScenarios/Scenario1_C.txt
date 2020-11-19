@@ -1,5 +1,5 @@
-10,1,0,0,10
-Avenger,5
+10,5,0,0,0
+Avenger,10
 Copycat,5
 Forgiver,5
 Goody,5

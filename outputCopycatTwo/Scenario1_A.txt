@@ -1,0 +1,23 @@
+********************** GAME 1 **********************
+Match 1 - |Avenger1 : 25| VS |Copycat2 : 25|
+Match 2 - |Avenger1 : 25| VS |Forgiver3 : 25|
+Match 3 - |Avenger1 : 55| VS |Goody4 : 55|
+Match 4 - |Avenger1 : -2| VS |Stinger5 : 7|
+Match 5 - |Avenger1 : 0| VS |MyPlayerCopycatTwo6 : 9|
+Match 6 - |Copycat2 : 22| VS |Forgiver3 : 22|
+Match 7 - |Copycat2 : 56| VS |Goody4 : 51|
+Match 8 - |Copycat2 : -1| VS |Stinger5 : 3|
+Match 9 - |Copycat2 : 11| VS |MyPlayerCopycatTwo6 : 15|
+Match 10 - |Forgiver3 : 56| VS |Goody4 : 51|
+Match 11 - |Forgiver3 : -2| VS |Stinger5 : 6|
+Match 12 - |Forgiver3 : 18| VS |MyPlayerCopycatTwo6 : 58|
+Match 13 - |Goody4 : -22| VS |Stinger5 : 77|
+Match 14 - |Goody4 : -19| VS |MyPlayerCopycatTwo6 : 76|
+Match 15 - |Stinger5 : 3| VS |MyPlayerCopycatTwo6 : -1|
+=================== TOTAL POINTS ===================
+=MyPlayerCopycatTwo6 : 157
+=Forgiver3 : 119
+=Goody4 : 116
+=Copycat2 : 113
+=Avenger1 : 103
+=Stinger5 : 96
